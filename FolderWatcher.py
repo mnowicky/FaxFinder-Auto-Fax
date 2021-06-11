@@ -1,8 +1,3 @@
-'''
-Created on Dec 12, 2018
-
-@author: treusch
-'''
 import time
 import traceback
 import os
