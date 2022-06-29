@@ -1,7 +1,7 @@
 '''
-Created on Dec 12, 2018
+Created on Dec 12, 2020
 
-@author: treusch
+@author: mnowicky
 '''
 import time
 import traceback
