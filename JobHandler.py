@@ -1,6 +1,7 @@
 #!c:\python36\python.exe
 '''
-Created on Dec 12, 2018
+Created on Dec 12, 2020
+@author: mnowicky
 
 '''
 import time
