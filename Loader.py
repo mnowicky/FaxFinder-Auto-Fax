@@ -1,7 +1,7 @@
 '''
-Created on Dec 4, 2018
+Created on Dec 4, 2020
 
-@author: treusch
+@author: mnowicky
 '''
 import configparser
 from Logger import Logger
@@ -41,9 +41,9 @@ class Loader(object):
     #fax template
     coverPage=""
     faxOrg="William Mattar, P.C."
-    faxOrgPhone="716-444-4444"
-    faxPhone="716-631-9804"
-    emailAddr="trevor@williammattar.com"
+    faxOrgPhone="444-444-4444"
+    faxPhone="716-631-4444"
+    emailAddr="matthewn@williammattar.com"
     
     #operational
     folderWatcher=None
