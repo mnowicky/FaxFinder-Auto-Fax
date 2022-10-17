@@ -1,10 +1,10 @@
 from Logger import Logger
 import pyodbc
 
-dbUser="dba"
-dbPassword="sql"
-dbHost="Needles"
-dbPort=2638
+dbUser="" #enter db username
+dbPassword="" # enter db pw
+dbHost="" #hostname where db lives
+dbPort= #port (as numeral)
 dbConnection=None
 
 def connectDB():
